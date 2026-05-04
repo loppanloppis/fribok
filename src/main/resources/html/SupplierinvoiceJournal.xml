@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- $Id: SupplierinvoiceJournal.xml 178 2010-04-19 19:03:27Z ellefj $ -->
+
+<!DOCTYPE article
+  PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
+<article lang="sv">
+   <informaltable frame="all">
+      <tgroup cols="1"><tbody><row>
+            <entry>
+               <para>
+                  <note>
+                     <remark>HTML: &lt;META HTTP-EQUIV="Content-Language" CONTENT="sv"&gt;</remark>
+                  </note>
+                  <inlinegraphic fileref="../images/header.png" width="18.522cm" depth="0.53cm"/> Leverantörsfakturajournal</para>
+               <para/>
+               <para>Den här rapporten listar leverantörsfakturor mellan två datum och visar hur varje leverantörsfaktura kommer att bokföras och hur de bidrar till den totala bokföringsposten i bokföringsunderlaget på sista sidan i den här rapporten.När du ska skriva ut leverantörsfakturajournalen kan du välja startdatum och slutdatum för fakturadatum för att få med alla icke bokförda leverantörsfakturor under vald period i leverantörsfakturajournalen. Leverantörsfakturajournalen används för att bokföra flera leverantörsfakturor under en månad automatiskt i en verifikation.I leverantörsfakturajournalen är det viktigt att kontrollera leverantörsfakturornas nummerserie, att det inte finns några luckor i nummerserien, så att inte vissa leverantörsfakturor utelämnas i bokföringen. Du bör även kontrollera att rätt kontonummer har använts vid bokföring av leverantörsfakturorna, du kan ändra konteringen för de enskilda leverantörsfakturorna tills leverantörsfakturajournalen med aktuella leverantörsfakturor har godkänts och bokförts.När du har skrivit ut leverantörsfakturajournalen kommer du få en fråga om du vill godkänna och bokföra leverantörsfakturajournalen, om du svarar "Ja" på den här frågan så kommer leverantörsfakturajournalen bokföras automatiskt enligt bokföringsunderlaget..orgsunderlaget utgör en verifikation för konteringen.Följande sidor och fält finns i den här rapporten:LeverantörsfakturajournalFaktura nrHär visas ett unikt internt löpnummer för varje registrerad leverantörsfaktura.Leverantörs nrHär visas Leverantörsnumret på den leverantör som har skapat leverantörsfakturan.LeverantörsnamnHär visas leverantörens företagsnamn.DatumHär visas datumet då leverantörsfakturan skapades och utfärdades.ValutaHär visas leverantörsfakturans valuta.Konto nrHär visas de kontonummer som anges under leverantörsfakturans konteringsflik.BeskrivningHär visas kontobeskrivningen för framförvarande kontonummer.DebetHär visas ett monetärt belopp som har registrerats för framförvarande konto i leverantörsfakturan.KreditHär visas ett monetärt belopp som har registrerats för framförvarande konto i leverantörsfakturan.ProjektHär visas projektet som har registrerats för framförvarande konto i leverantörsfakturan.ResultatenhetHär visas resultatenheten som har registrerats för framförvarande konto i leverantörsfakturan.TotalsummaHär visas leverantörsfakturans totala monetära värde inklusive moms angivet i leverantörsfakturans valuta.Varav momsHär visas leverantörsfakturans totala monetära värde för mervärdesskatt angivet i leverantörsfakturans valuta.ValutakursHär visas leverantörsfakturans valutakurs, valutakursen visas som hur många enheter av redovisningsvalutan du måste betala för en enhet av valutan som är angiven i leverantörsfakturan.Totalt redovisningsvalutaHär visas leverantörsfakturans totala monetära värde inklusive moms angivet i redovisningsvalutan, det här värdet beräknas genom att "Totalsumma" multipliceras med "Valutakurs".BokföringsunderlagKontoHär visas de kontonummer som ska användas vid bokföring av leverantörsfakturajournalen.BeskrivningHär visas kontobeskrivningen för framförvarande kontonummer.ProjektHär visas projektet som skall bokföras för framförvarande konto.ResultatenhetHär visas resultatenheten som skall bokföras för framförvarande konto.DebetHär visas ett monetärt belopp som skall bokföras för framförvarande konto.KreditHär visas ett monetärt belopp som skall bokföras för framförvarande konto.</para>
+               <para/>
+               <para>Copyright 2006-2018 - Fribok.org</para>
+            </entry>
+         </row></tbody></tgroup>
+   </informaltable>
+   <para/>
+</article>

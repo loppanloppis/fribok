@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
+<article lang="">
+   <para>JHelpBuilder Software License Agreement</para>
+   <para>JhelpBuilder software is provided free for use to the individual accepting this license agreement. You acknowledge that: </para>
+   <orderedlist>
+      <listitem>
+         <para>The Software is protected under copyright laws, </para>
+      </listitem>
+      <listitem>
+         <para>You have no right, title or interest in the Software other than the license granted above </para>
+      </listitem>
+      <listitem>
+         <para>You have no right, title or interest whatsoever in the confidential information and trade secrets embodied in the Software. </para>
+      </listitem>
+   </orderedlist>
+   <para>You may not, under any circumstances:</para>
+   <orderedlist>
+      <listitem>
+         <para>Decompile, reverse engineer, or disassemble the Software </para>
+      </listitem>
+      <listitem>
+         <para>Attempt in any way to falsify the licensing file and/or or bypass the licensing procedures for the Software. </para>
+      </listitem>
+      <listitem>
+         <para>Redistribute the Software. </para>
+      </listitem>
+   </orderedlist>
+   <para>You are advised to backup all programs and data before using the Software.DISCLAIMER OF WARRANTIESYOU AGREE THAT NO WARRANTIES HAS BEEN MADE, EITHER EXPRESS OR IMPLIED, REGARDING THE SOFTWARE, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT AND ERROR FREE OPERATION. YOU ACCEPT THE SOFTWARE "AS IS" AND WITHOUT WARRANTY.LIMITATION OF LIABILITYIN NO EVENT SHALL THE AGGREGATE AMOUNT OF DAMAGES PAYABLE TO YOU FOR ANY CLAIM ARISING FROM THE SOFTWARE OR THIS AGREEMENT EXCEED THE AMOUNTS YOU PAID FOR YOUR LICENSE. WE WILL NOT BE LIABLE UNDER ANY CIRCUMSTANCES FOR LOST PROFITS, LOST OPPORTUNITIES, OR FOR SPECIAL, CONSEQUENTIAL, INDIRECT, INCIDENTAL OR PUNITIVE DAMAGES, ARISING OUT OF OR RELATED TO THE USE OF OR INABILITY TO USE THE SOFTWARE, REGARDLESS OF WHETHER WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.In any legal action or arbitration relating to this Agreement, the prevailing party shall recover from the other party all costs of litigation or arbitration, including reasonable attorneys fees.</para>
+</article>

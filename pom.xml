@@ -27,8 +27,8 @@
         <artifactId>maven-compiler-plugin</artifactId>
         <version>2.0.2</version>
         <configuration>
-          <source>1.7</source>
-          <target>1.7</target>
+          <source>8</source>
+          <target>8</target>
         </configuration>
       </plugin>
       <plugin>
@@ -202,12 +202,6 @@
       <version>1.8.0.7</version>
       <scope>compile</scope>
     </dependency>
-    <dependency>
-      <groupId>org.fribok</groupId>
-      <artifactId>fonts</artifactId>
-      <version>0.1</version>
-      <scope>compile</scope>
-    </dependency>
     <!-- 
          4.2.1 is the last versionen of com.lowagie:itext before com.itextpdf:itextpdf, but 
          jasperreports 6.x.y requires 2.1.7.js1/2 from other repo
@@ -311,12 +305,6 @@
       <version>SRU2021-9.2.5</version>
       <scope>compile</scope>
     </dependency-->
-    <dependency>
-      <groupId>org.fribok</groupId>
-      <artifactId>help</artifactId>
-      <version>0.1</version>
-      <scope>compile</scope>
-    </dependency>
     <!-- test dependencies -->
     <dependency>
       <groupId>junit</groupId>

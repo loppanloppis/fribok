@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- $Id: SupplierinvoiceList.xml 178 2010-04-19 19:03:27Z ellefj $ -->
+
+<!DOCTYPE article
+  PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
+<article lang="sv">
+   <informaltable frame="all">
+      <tgroup cols="1"><tbody><row>
+            <entry>
+               <para>
+                  <note>
+                     <remark>HTML: &lt;META HTTP-EQUIV="Content-Language" CONTENT="sv"&gt;</remark>
+                  </note>
+                  <inlinegraphic fileref="../images/header.png" width="18.522cm" depth="0.53cm"/> Leverantörsfakturalista</para>
+               <para/>
+               <para>Den här rapporten listar alla leverantörsfakturor, obetalda leverantörsfakturor eller förfallna leverantörsfakturor för alla leverantörer eller en specifik leverantör under hela perioden eller mellan två datum.När du ska skriva ut leverantörsfakturalistan kan du välja om du vill skriva ut alla leverantörsfakturor, obetalda leverantörsfakturor eller förfallna leverantörsfakturor, du kan också välja att skriva ut leverantörsfakturalistan för en specifik leverantör och/eller mellan ett start- och slutdatum för fakturadatum. Leverantörsfakturalistan filtreras sedan enligt era val.Följande fält finns i den här rapporten:Faktura nrHär visas ett unikt nummer internt löpnummer för varje registrerad leverantörsfaktura.LeverantörsnrHär visas leverantörsnumret för den leverantör som leverantörsfakturan är skapad för.LeverantörsnamnHär visas leverantörens företagsnamn.ValutaHär visas leverantörsfakturans valuta.DatumHär visas datumet då leverantörsfakturan skapades och utfärdades.Produkt nrHär visas ett unikt nummer för de produkter som ingår i leverantörsfakturan och som finns upplagda i produktregistret. Saknas ett produktnummer beror det på att produkten inte finns upplagd i produktregistret.BeskrivningHär visas produktens namn eller beskrivning enligt leverantörsfakturan.InköpsprisHär visas produktens inköpspris per enhet exklusive moms angivet i leverantörsfakturans valuta.AntalHär visas antalet enheter av produkten som ingår i leverantörsfakturan.RadsummaHär visas produktradens totala monetära värde exklusive moms angivet i leverantörsfakturans valuta. Radsumman beräknas på inköpsspris och antal för produkten.FakturasummaHär visas leverantörsfakturans totala monetära värde inklusive moms angivet i leverantörsfakturans valuta.Varav momsHär visas leverantörsfakturans totala monetära värde för mervärdesskatt angivet i leverantörsfakturans valuta.</para>
+               <para/>
+               <para>Copyright 2006-2018 - Fribok.org</para>
+            </entry>
+         </row></tbody></tgroup>
+   </informaltable>
+   <para/>
+</article>

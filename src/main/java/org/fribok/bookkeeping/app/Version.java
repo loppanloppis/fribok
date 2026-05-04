@@ -6,7 +6,8 @@ import java.util.ResourceBundle;
 /**
  * Class holding constants with version information
  * @version $Id: Version.java 237 2021-11-01 17:53:13Z ellefj $
- */
+ * it's actually build 244 2025-07-07 /pl 
+*/
 public final class Version {
     public final static String APP_TITLE = "Fribok";
 
@@ -17,7 +18,7 @@ public final class Version {
 	return ResourceBundle.getBundle("version").getString("build.date");
     }
     public static String version() {
-	return ResourceBundle.getBundle("version").getString("version") + "-$Rev: 237 $";
+	return ResourceBundle.getBundle("version").getString("version") + "-$Rev: 244 $";
     }
 
     public final static boolean CAN_DELETE_VOUCHERS = false;
