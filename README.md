@@ -1,6 +1,6 @@
 # Fribok
 
-This repository contains a (slightly) modernized build of Fribok 2.3-SNAPSHOT based on the SourceForge SVN source.
+This repository contains a (slightly) modernized build of Fribok 2.3-SNAPSHOT based on the SourceForge SVN source rev 244.
 
 But why, one may ask? Well, I was thrilled to find out the newly released Fribok 2.3-SNAPSHOT ran perfectly fine even on more recent java versions. However, I could not get the most recent SVN rev 244 to build on my system, and I wanted to fix that.
  
