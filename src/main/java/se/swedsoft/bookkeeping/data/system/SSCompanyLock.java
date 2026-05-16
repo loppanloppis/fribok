@@ -39,9 +39,13 @@ public class SSCompanyLock {
             iOut.flush();
             iOut.println(iCompany.getId().toString());
             iOut.flush();
-            String iReply = iIn.readLine();
 
-            return iReply.equals("goahead");
+			String iReply = iIn.readLine();
+
+			/* Avoid NullPointerException if the server closes the lock socket without a reply. */
+
+			return "goahead".equals(iReply);
+
         } catch (IOException e) {
             e.printStackTrace();
             return false;
